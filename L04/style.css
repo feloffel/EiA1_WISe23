@@ -1,0 +1,33 @@
+html {
+    background-color: white;
+}
+
+div {
+    position: absolute;
+}
+
+#intro1, #intro2, #intro3, #middle1, #middle2, #middle3, #outro1, #outro2, #outro3 {
+    background-color: white;
+    height: 2000px;
+    width:2000px
+}
+
+#introvideo, #videoi1, #videoi2, #videoi3, #videom1, #videom2, #videom3, #videoo1, #videoo2, #videoo3{
+    width: 1000px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font: bold;
+}
+
+b {
+    color: red;
+}
+
+.fortsetzungshinweis {
+    color: gray;
+}
