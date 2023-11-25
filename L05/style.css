@@ -1,0 +1,60 @@
+/*for mobile 430x930*/
+
+    body {
+      background-color: #70D6FF;
+    }
+    .container1 {
+        background-color: #ff9770;
+        height: 295px;
+        width: auto;
+        display: flex;
+        margin: 10px;
+        border-radius: 5%;
+    }
+    .container2 {
+        background-color: #ffd670;
+        height: 295px;
+        width: auto;
+        display: flex;
+        margin: 10px;
+        border-radius: 5%;
+    }
+    .container3 {
+        background-color: #e9ff70;
+        height: 295px;
+        width: auto;
+        display: flex;
+        margin: 10px;
+        border-radius: 5%;
+    }
+  
+
+/*for desktop 1920x1080*/ 
+  @media only screen and (min-width: 431px) {
+   
+    .container1 {
+        background-color: #ff9770;
+        height: 1045px;
+        width: auto;
+        margin: 10px;
+    }
+    .container2 {
+        background-color: #ffd670;
+        height: 640px;
+        width: auto;
+        margin: 10px;
+       border-radius: 3%;
+    }
+    .container3 {
+        background-color: #e9ff70;
+        height: 395px;
+        width: auto;
+        margin: 10px;
+        border-radius: 3%;
+    }
+
+    #outer {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+  }
