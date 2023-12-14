@@ -7,13 +7,13 @@ var gespeicherterName = frageNachNamen();               // Aufrufen der Funktion
 
 //Texte im Array//
 let myArray = [
-    ""+gespeicherterName+" ist unterwegs mit seinem Raumschiff und plant das nächste Ziel. Möchte "+gespeicherterName+" lieber nach Arrakis oder Krypton fliegen?", 
-    ""+gespeicherterName+" startet den Antrieb und fliegt los. Auf einmal leuchtet ein Gefahrensymbol auf dem Disyplay auf. Möchte "+gespeicherterName+" anhalten oder weiterfliegen?", 
-    ""+gespeicherterName+" findet den Schaden. Ein Weltraumwesen hat den Antrieb manipuliert. "+gespeicherterName+" repariert ihn und erreicht Arrakis wohlauf.", 
-    ""+gespeicherterName+" ist kurz davor Arrakis zu erreichen. Plötzlich stoppt das Raumschiff. Der Antrieb überhitzt und "+gespeicherterName+" muss das Schiff in einer Rettungskapsel verlassen. "+gespeicherterName+" erreicht Arrakis mit kleinen Schrammen und sieht wie das Raumschiff explodiert.", 
-    ""+gespeicherterName+" startet den Antrieb und fliegt los. Kurz vor Krypton nähern sich "+gespeicherterName+" fünf Patroullienschiffe. Sie verlangen von "+gespeicherterName+" das Schutzschild zu senken um an Bord kommen zu können. "+gespeicherterName+" kommt das sehr suspekt vor. Soll "+gespeicherterName+" das Schild senken oder ignorieren?", 
-    "Die Patroullien durchsuchen "+gespeicherterName+"s Schiff und finden nichts auffälliges. Sie wünschen "+gespeicherterName+" einen schönen Aufenthalt auf Krypton und lassen "+gespeicherterName+" landen.", 
-    "Die Patroullienschiffe eröffnen das Feuer. "+gespeicherterName+" hat keine Chance. Sie zerstören "+gespeicherterName+"s Schild und entern das Schiff. "+gespeicherterName+" sitzt nun im Gefängnis auf Krypton."
+    "Tom ist unterwegs mit seinem Raumschiff und plant das nächste Ziel. Möchte Tom lieber nach Arrakis oder Krypton fliegen?", 
+    "Tom startet den Antrieb und fliegt los. Auf einmal leuchtet ein Gefahrensymbol auf dem Disyplay auf. Möchte Tom anhalten oder weiterfliegen?", 
+    "Tom findet den Schaden. Ein Weltraumwesen hat den Antrieb manipuliert. Tom repariert ihn und erreicht Arrakis wohlauf.", 
+    "Tom ist kurz davor Arrakis zu erreichen. Plötzlich stoppt das Raumschiff. Der Antrieb überhitzt und Tom muss das Schiff in einer Rettungskapsel verlassen. Tom erreicht Arrakis mit kleinen Schrammen und sieht wie das Raumschiff explodiert.", 
+    "Tom startet den Antrieb und fliegt los. Kurz vor Krypton nähern sich Tom fünf Patroullienschiffe. Sie verlangen von Tom das Schutzschild zu senken um an Bord kommen zu können. Tom kommt das sehr suspekt vor. Soll Tom das Schild senken oder ignorieren?", 
+    "Die Patroullien durchsuchen Toms Schiff und finden nichts auffälliges. Sie wünschen Tom einen schönen Aufenthalt auf Krypton und lassen Tom landen.", 
+    "Die Patroullienschiffe eröffnen das Feuer. Tom hat keine Chance. Sie zerstören Toms Schild und entern das Schiff. Tom sitzt nun im Gefängnis auf Krypton."
 ];
 
 
